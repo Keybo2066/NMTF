@@ -1,2 +1,2 @@
 # NMTF
-Non-negative Multiple Tensor Decomposition
+Non-negative Multiple Tensor Factorization
